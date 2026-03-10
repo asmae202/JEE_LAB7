@@ -6,14 +6,14 @@ import java.util.Date;
 public class Student {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id;
+    private Long id;
     private String nom;
     private String prenom;
 
     @Temporal(TemporalType.DATE)
     private Date dateNaissance;
 
-    public Student(int id, String nom, String prenom, Date dateNaissance) {
+    public Student(Long id, String nom, String prenom, Date dateNaissance) {
         this.id = id;
         this.nom = nom;
         this.prenom = prenom;
@@ -24,7 +24,7 @@ public class Student {
 
     }
 
-    public int getId() {
+    public Long getId() {
         return id;
     }
 
