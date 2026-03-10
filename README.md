@@ -75,18 +75,13 @@ Cration d'une base MySQL :
 <img width="438" height="464" alt="image" src="https://github.com/user-attachments/assets/cf6100db-f6df-4808-be82-827f92a6b3f7" />
 
 
-## StudentController Resultat:
-
-
-
-<img width="893" height="327" alt="image" src="https://github.com/user-attachments/assets/170f54bd-30aa-4361-9386-05f1c03c8045" />
 
 ## Exécution de l’application:
 
 
 <img width="905" height="428" alt="image" src="https://github.com/user-attachments/assets/051241c7-995d-4611-a9bb-eb174858a407" />
 
-## Teste les endpoints REST:
+## Test les endpoints REST:
 
 
 ### TEST methode POST:
@@ -100,6 +95,77 @@ Cration d'une base MySQL :
 <img width="738" height="401" alt="image" src="https://github.com/user-attachments/assets/3336ccf4-3b37-4886-8d77-adcf1a24c8f4" />
 
 
+### TEST methode GET:
+
+<img width="509" height="437" alt="image" src="https://github.com/user-attachments/assets/d8ba1e14-db72-4532-928a-07ccbf4e54d8" />
+
+
+<img width="514" height="415" alt="image" src="https://github.com/user-attachments/assets/c3b3ec23-5c79-4997-a9a9-a98f6daddec2" />
+
+<img width="535" height="216" alt="image" src="https://github.com/user-attachments/assets/911287d6-354f-436b-a779-bcef9d50640d" />
+
+
+<img width="518" height="441" alt="image" src="https://github.com/user-attachments/assets/05331387-8699-44c4-a2e3-9af5f5f464d5" />
+
+### TEST methode DELETE:
+
+On a supprimer students ayant id=1
+
+<img width="532" height="211" alt="image" src="https://github.com/user-attachments/assets/c9157045-060b-4d38-9e4e-57be492c30de" />
+
+
+<img width="780" height="372" alt="image" src="https://github.com/user-attachments/assets/e63d132b-f162-479c-85b1-33c64f2bb46f" />
+
+
+## StudentController Resultat:
+
+<img width="893" height="327" alt="image" src="https://github.com/user-attachments/assets/170f54bd-30aa-4361-9386-05f1c03c8045" />
+
+ ## Accé à l’interface Swagger:
+
+ <img width="959" height="465" alt="image" src="https://github.com/user-attachments/assets/36bd3a32-ca3f-4770-b74e-65d2b783215c" />
+ 
+
+<img width="958" height="400" alt="image" src="https://github.com/user-attachments/assets/4f8744d0-4728-4948-9cb5-99a3abde7720" />
+
+
+## Test dans Swagger UI:
+
+### TEST methode GET ALL:
+
+
+
+https://github.com/user-attachments/assets/7589adaa-f7ba-43e7-8884-8e8de3ccbe7e
+
+
+
+### TEST methode GET COUNT:
+
+
+https://github.com/user-attachments/assets/ce6d211c-af7e-4cbf-a42a-3bd9b0b97982
+
+
+### TEST methode BY YEAR:
+
+
+https://github.com/user-attachments/assets/09caa398-f364-4257-9b9a-2b71a43906fd
+
+
+On a supprimer student:
+
+       id=6
+    "nom": "EL AMRANI",
+    "prenom": "Youssef",
+    "dateNaissance": "1990-03-12"
+
+  
+
+https://github.com/user-attachments/assets/c3ea91e8-036e-4b7a-9c3e-462ed170c041
+
+### TEST methode POST SAVE:
+
+
+https://github.com/user-attachments/assets/a141d0f7-c202-4fbc-b615-bbd4430823a9
 
 
 
