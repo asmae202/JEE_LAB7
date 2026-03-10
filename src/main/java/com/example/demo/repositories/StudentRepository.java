@@ -9,10 +9,10 @@ import com.example.demo.entities.Student;
 @Repository
 public interface StudentRepository extends JpaRepository<Student, Integer> {
 
-    // Recherche d'un étudiant par son identifiant
+    // Recherche d'un étudiant par id
     Student findById(int id);
 
-    // Requête personnalisée pour compter les étudiants par année de naissance
+    // Requête pour compter les étudiants par date de naissance
     @Query("SELECT YEAR(s.dateNaissance), COUNT(s) FROM Student s GROUP BY YEAR(s.dateNaissance)")
     Collection<Object[]> findNbrStudentByYear();
 }
