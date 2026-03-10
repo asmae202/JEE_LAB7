@@ -142,7 +142,7 @@ https://github.com/user-attachments/assets/7589adaa-f7ba-43e7-8884-8e8de3ccbe7e
 ### TEST methode GET COUNT:
 
 
-https://github.com/user-attachments/assets/ce6d211c-af7e-4cbf-a42a-3bd9b0b97982
+https://github.com/user-attachments/assets/f65ab0d4-8d76-4bc4-8c65-8d0b47870803
 
 
 ### TEST methode BY YEAR:
@@ -150,6 +150,8 @@ https://github.com/user-attachments/assets/ce6d211c-af7e-4cbf-a42a-3bd9b0b97982
 
 https://github.com/user-attachments/assets/09caa398-f364-4257-9b9a-2b71a43906fd
 
+
+### TEST methode DELETE:
 
 On a supprimer student:
 
@@ -160,7 +162,11 @@ On a supprimer student:
 
   
 
-https://github.com/user-attachments/assets/c3ea91e8-036e-4b7a-9c3e-462ed170c041
+
+https://github.com/user-attachments/assets/b7145373-c6b9-45a7-9cff-4a3049678e0b
+
+
+
 
 ### TEST methode POST SAVE:
 
