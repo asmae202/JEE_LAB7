@@ -88,7 +88,16 @@ Cration d'une base MySQL :
 
 ## Teste les endpoints REST:
 
-<img width="522" height="430" alt="image" src="https://github.com/user-attachments/assets/3d2127dd-cd17-40b6-acb9-e7b8ccf4b145" />
+
+### TEST methode POST:
+
+
+<img width="527" height="378" alt="image" src="https://github.com/user-attachments/assets/aff58851-970a-4799-afd9-c10986057232" />
+
+
+<img width="523" height="410" alt="image" src="https://github.com/user-attachments/assets/69f6cb19-e44e-404d-91c0-199dbcc23d07" />
+
+<img width="738" height="401" alt="image" src="https://github.com/user-attachments/assets/3336ccf4-3b37-4886-8d77-adcf1a24c8f4" />
 
 
 
